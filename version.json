@@ -1,11 +1,11 @@
 {
     "product":  "ATAK_DIESEL",
-    "version":  "1.1.1",
-    "displayVersion":  "VER.1.001",
-    "releaseDateUtc":  "2026-11-23T08:55:09.1800770+00:00",
+    "version":  "1.1.2",
+    "displayVersion":  ".1.1.2",
+    "releaseDateUtc":  "2026-11-23T09:01:41.5933064+00:00",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/atakotodizel/atak-dizel-updates/releases/download/v1.1.1/ATAK-DIESEL-1.1.1.exe",
-    "sha256":  "ECA4CAD87C1F8D6AFDDD4B298081A08CEBAEA063B69EFF609BAE3018F41DE686",
+    "downloadUrl":  "https://github.com/atakotodizel/atak-dizel-updates/releases/download/v1.1.2/ATAK-DIESEL-1.1.2.exe",
+    "sha256":  "CCAC4C0D525249BDA2707F13F1268F1D5D221E16E4BE6A74429DF190CF7397FD",
     "sizeBytes":  68711936,
-    "releaseNotes":  "Güncelleme"
+    "releaseNotes":  "ATAK DIESEL yeni surum guncellemesi."
 }
