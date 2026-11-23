@@ -1,11 +1,11 @@
 {
     "product":  "ATAK_DIESEL",
-    "version":  "1.1.2",
-    "displayVersion":  "1.1.2",
-    "releaseDateUtc":  "2026-11-23T09:01:41.5933064+00:00",
+    "version":  "1.1.3",
+    "displayVersion":  "1.1.3",
+    "releaseDateUtc":  "2026-11-23T09:16:58.3530416+00:00",
     "mandatory":  false,
-    "downloadUrl":  "https://github.com/atakotodizel/atak-dizel-updates/releases/download/v1.1.2/ATAK-DIESEL-1.1.2.exe",
-    "sha256":  "CCAC4C0D525249BDA2707F13F1268F1D5D221E16E4BE6A74429DF190CF7397FD",
+    "downloadUrl":  "https://github.com/atakotodizel/atak-dizel-updates/releases/download/v1.1.3/ATAK-DIESEL-1.1.3.exe",
+    "sha256":  "315F088D29C2F1D42D8E997845F4F0F55391639FDD638EAF7B2A79ACFA945A58",
     "sizeBytes":  68711936,
-    "releaseNotes":  "ATAK DIESEL yeni surum guncellemesi."
+    "releaseNotes":  "yeni enjektörler eklendi"
 }
