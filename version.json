@@ -1,8 +1,11 @@
 {
+  "product": "ATAK_DIESEL",
   "version": "1.1.0",
   "displayVersion": "1.1.0",
+  "releaseDateUtc": "2026-11-23T00:00:00Z",
   "mandatory": false,
   "releaseNotes": "ATAK DIZEL ilk yayın.",
   "downloadUrl": "https://github.com/atakotodizel/atak-dizel-updates/releases/download/v1.1.0/ATAK_DIZEL_Setup_1.1.0.exe",
-  "sha256": "44ABACE7480C47FA423EB7CE148E81712DC240284EE43ADBD80CFA86DCD7D12F"
+  "sha256": "44ABACE7480C47FA423EB7CE148E81712DC240284EE43ADBD80CFA86DCD7D12F",
+  "sizeBytes": 0
 }
